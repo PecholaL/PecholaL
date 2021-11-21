@@ -15,7 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+##   
 ### 😉 懶人
+
 ### 📍 CN
+
 ### ⌨️ C/Python
+
 ### ❤️ 🍷 🎮 📷 ⚽️
