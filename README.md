@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 
 ### ❤️： 🚗 🎮 📷 ⚽️ 🍷🚴
 
-### Recent Works
+### Deep Learning Works
 [IDEAW](https://pecholal.github.io/IDEAW-demo/)
 [MAIN-VC](https://pecholal.github.io/MAIN-VC-demo/)
