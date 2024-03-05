@@ -24,5 +24,6 @@ Here are some ideas to get you started:
 ### ❤️： 🚗 🎮 📷 ⚽️ 🍷🚴
 
 ### Deep Learning Works [📖](https://scholar.google.com/citations?user=rP_RLDcAAAAJ&hl=en)
-[IDEAW](https://pecholal.github.io/IDEAW-demo/)
-[MAIN-VC](https://pecholal.github.io/MAIN-VC-demo/)
+[IDEAW](https://pecholal.github.io/IDEAW-demo/) | neural audio watermarking  
+[MAIN-VC](https://pecholal.github.io/MAIN-VC-demo/) | lightweight voice conversion  
+
