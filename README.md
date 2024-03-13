@@ -27,3 +27,6 @@ Here are some ideas to get you started:
 [IDEAW](https://pecholal.github.io/IDEAW-demo/) | neural audio watermarking  
 [MAIN-VC](https://pecholal.github.io/MAIN-VC-demo/) | lightweight voice conversion  
 
+#### In Progress
+[RSA](https://github.com/pecholal/rsa) | restorable speaker anonymization
+
