@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-### 👉[ℙ𝕖𝕔𝕙𝕠𝕝𝕒𝕃](https://pecholal.github.io)👈
+[![](https://img.shields.io/badge/github.io-black?style=flat)](https://pecholal.github.io) 
+[![](https://img.shields.io/badge/SEU-USTC-blue?style=flat)](https://github.com/PecholaL) 
+[![](https://img.shields.io/badge/Google-Scholar-pink?style=flat)]([https://github.com/PecholaL](https://scholar.google.com/citations?user=rP_RLDcAAAAJ&hl=en))  
 
 <!--
 **PecholaL/PecholaL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,7 +23,7 @@ Here are some ideas to get you started:
 ##   
 ### 😉： 🫥🫥🫥  
 
-### Deep Learning Works [📖](https://scholar.google.com/citations?user=rP_RLDcAAAAJ&hl=en)
+### Deep Learning Works
 [IDEAW](https://pecholal.github.io/IDEAW-demo/) | neural audio watermarking  
 [MAIN-VC](https://pecholal.github.io/MAIN-VC-demo/) | lightweight voice conversion  
 
