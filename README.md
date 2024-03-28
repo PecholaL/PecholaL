@@ -30,3 +30,6 @@ Here are some ideas to get you started:
 #### In Progress
 [RSA](https://github.com/pecholal/rsa) | restorable speaker anonymization
 
+### Learning
+[Leenotas](https://github.com/pecholal/leenotas) | notes for algorithm
+
