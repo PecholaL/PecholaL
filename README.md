@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 [MAIN-VC](https://pecholal.github.io/MAIN-VC-demo/) | lightweight voice conversion  
 
 #### In Progress
-[RSA](https://github.com/pecholal/rsa) | restorable speaker anonymization
+[Rano](https://github.com/pecholal/Rano) | restorable speaker anonymization
 
 ### Learning
 [Leenotas](https://github.com/pecholal/Leenotas) | notes for algorithm
