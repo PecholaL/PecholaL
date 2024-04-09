@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 ### 😉： 🫥🫥🫥  
 
 ### Deep Learning Works
-[IDEAW](https://pecholal.github.io/IDEAW-demo/) | neural audio watermarking  
-[MAIN-VC](https://pecholal.github.io/MAIN-VC-demo/) | lightweight voice conversion  
+IDEAW | neural audio watermarking  
+MAIN-VC | lightweight voice conversion 
+Rano | restorable speaker anonymization
 
 #### In Progress
-[Rano](https://github.com/pecholal/Rano) | restorable speaker anonymization
 
 ### Learning
 [Leenotas](https://github.com/pecholal/Leenotas) | notes for algorithm
