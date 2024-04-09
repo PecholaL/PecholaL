@@ -24,8 +24,9 @@ Here are some ideas to get you started:
 ### 😉： 🫥🫥🫥  
 
 ### Deep Learning Works
-IDEAW | neural audio watermarking  MAIN-VC | lightweight voice conversion  
-Rano | restorable speaker anonymization
+**IDEAW** | neural audio watermarking
+**MAIN-VC** | lightweight voice conversion  
+**Rano** | restorable speaker anonymization  
 
 #### In Progress
 
