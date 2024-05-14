@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 **Rano** | restorable speaker anonymization  
 
 #### In Progress
-**Raf4Speech** ｜ robust audio fingerprinting
+**Raf4Speech** ｜ robust artificial fingerprinting
 
 ### Learning
 [Leenotas](https://github.com/pecholal/Leenotas) | notes for algorithm
