@@ -31,9 +31,6 @@ Here are some ideas to get you started:
 #### In Progress
 **Raf4Speech** ｜ robust artificial fingerprinting
 
-### Learning
-[Leenotas](https://github.com/pecholal/Leenotas) | notes for algorithm
-
 ### VSC Extension
 [Lakora](https://github.com/pecholal/Lakora) | plain Chinese-color-scheme for VSC
 
