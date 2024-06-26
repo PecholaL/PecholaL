@@ -34,6 +34,6 @@ Here are some ideas to get you started:
 ### VSC Extension
 [Lakora](https://github.com/pecholal/Lakora) | plain Chinese-color-scheme for VSC  
 
-### Java Projects
+### Java Projects (learnin')
 **WarehouseManagement** | SpringBoot + MyBatis-Plus  
 
