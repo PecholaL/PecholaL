@@ -32,5 +32,8 @@ Here are some ideas to get you started:
 **Raf4Speech** ｜ robust artificial fingerprinting
 
 ### VSC Extension
-[Lakora](https://github.com/pecholal/Lakora) | plain Chinese-color-scheme for VSC
+[Lakora](https://github.com/pecholal/Lakora) | plain Chinese-color-scheme for VSC  
+
+### Java Projects
+**WarehouseManagement** | SpringBoot + MyBatis-Plus  
 
