@@ -35,5 +35,5 @@ Here are some ideas to get you started:
 [Lakora](https://github.com/pecholal/Lakora) | plain Chinese-color-scheme for VSC  
 
 ### Java Projects (learning)
-[WarehouseManagement](https://github.com/PecholaL/WarehouseManagement) | SpringBoot + MyBatis-Plus  
+[WarehouseManagement](https://github.com/PecholaL/WarehouseManagement) | \{SpringBoot + MyBatis-Plus\} + \{VUE\}  
 
