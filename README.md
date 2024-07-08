@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 
 ### VSC Extension
 [Lakora](https://github.com/pecholal/Lakora) | plain Chinese-color-scheme for VSC  
+[Macatii](https://github.com/pecholal/Macatii) | wabi-sabi color scheme for VSC  
 
 ### Java Projects (learning)
 [WarehouseManagement](https://github.com/PecholaL/WarehouseManagement) | \{SpringBoot + MyBatis-Plus\} + \{VUE\}  
