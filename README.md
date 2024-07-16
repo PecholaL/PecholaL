@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 #### In Progress
 **Raf4Speech** ｜ robust artificial fingerprinting
 
-### VSC Extension
+### VSC Extensions
 [Lakora](https://github.com/pecholal/Lakora) | a plain Chinese-color-scheme for VSC  
 [Macatii](https://github.com/pecholal/Macatii) | a wabi-sabi color scheme for VSC  
 
