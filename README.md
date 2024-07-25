@@ -37,4 +37,5 @@ Here are some ideas to get you started:
 
 ### Java Projects (learning)
 [WarehouseManagement](https://github.com/PecholaL/WarehouseManagement) | \{SpringBoot + MyBatis-Plus\} + \{VUE\}  
+[SeckillSystem](https://github.com/PecholaL/SeckillSystem) | \{SpringBoot + MyBatis-Plus + Lombok\} + \{Redis + RabbitMQ\} + \{Thymeleaf + Bootstrap\}  
 
