@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 [Lakora](https://github.com/pecholal/Lakora) | a plain Chinese-color-scheme for VSC  
 [Macatii](https://github.com/pecholal/Macatii) | a wabi-sabi color scheme for VSC  
 
-### Java Projects (learning)
+### Back-End Development (learning)
 [WarehouseManagement](https://github.com/PecholaL/WarehouseManagement) | \{SpringBoot + MyBatis-Plus\} + \{VUE\}  
 [SeckillSystem](https://github.com/PecholaL/SeckillSystem) | \{SpringBoot + MyBatis-Plus + Lombok\} + \{Redis + RabbitMQ\} + \{Thymeleaf + Bootstrap\}  
 
