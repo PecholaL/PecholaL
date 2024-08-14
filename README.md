@@ -25,7 +25,9 @@ Here are some ideas to get you started:
 
 ### Deep Learning Works
 **IDEAW** | neural audio watermarking  
-**MAIN-VC** | lightweight voice conversion  
+**MAIN-VC** | lightweight voice conversion 
+#### In Progress
+**AinAno** | speaker anonymization  
 
 ### VSC Extensions
 [Lakora](https://github.com/pecholal/Lakora) | a plain Chinese-color-scheme for VSC  
