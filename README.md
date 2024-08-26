@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 **IDEAW** | neural audio watermarking  
 **MAIN-VC** | lightweight voice conversion 
 #### In Progress
-**AinAno** | speaker anonymization  
+**AinAno** | generative speaker anonymization  
 
 ### VSC Extensions
 [Lakora](https://github.com/pecholal/Lakora) | a plain Chinese-color-scheme for VSC  
@@ -35,5 +35,6 @@ Here are some ideas to get you started:
 
 ### Back-End Development (learning)
 [WarehouseManagement](https://github.com/PecholaL/WarehouseManagement) | \{SpringBoot + MyBatis-Plus\} + \{VUE\}  
+### In Progress
 [SeckillSystem](https://github.com/PecholaL/SeckillSystem) | \{SpringBoot + MyBatis-Plus + Lombok\} + \{Redis + RabbitMQ\} + \{Thymeleaf + Bootstrap\}  
 
