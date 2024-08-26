@@ -35,6 +35,6 @@ Here are some ideas to get you started:
 
 ### Back-End Development (learning)
 [WarehouseManagement](https://github.com/PecholaL/WarehouseManagement) | \{SpringBoot + MyBatis-Plus\} + \{VUE\}  
-### In Progress
+#### In Progress
 [SeckillSystem](https://github.com/PecholaL/SeckillSystem) | \{SpringBoot + MyBatis-Plus + Lombok\} + \{Redis + RabbitMQ\} + \{Thymeleaf + Bootstrap\}  
 
