@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 **IDEAW** | neural audio watermarking  
 **MAIN-VC** | lightweight voice conversion 
 #### In Progress
-**AinAno** | generative speaker anonymization  
+**INANO** | generative speaker anonymization  
 
 ### VSC Extensions
 [Lakora](https://github.com/pecholal/Lakora) | a plain Chinese-color-scheme for VSC  
