@@ -15,7 +15,6 @@ class="underline"
     src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
     style="width: 1em; margin-inline-start: 0.5em"
     alt="ORCID iD icon"/>
-  https://orcid.org/0009-0000-9103-5783
 </a>
 
 ##   
