@@ -4,6 +4,19 @@
 [![](https://img.shields.io/badge/SEU-USTC-blue?style=flat)](https://github.com/PecholaL) 
 [![](https://img.shields.io/badge/Google-Scholar-pink?style=flat)](https://scholar.google.com/citations?user=rP_RLDcAAAAJ&hl=en)  
 
+    <a
+    id="cy-effective-orcid-url"
+    class="underline"
+     href="https://orcid.org/0009-0000-9103-5783"
+     target="orcid.widget"
+     rel="me noopener noreferrer"
+     style="vertical-align: top">
+     <img
+        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+        style="width: 1em; margin-inline-start: 0.5em"
+        alt="ORCID iD icon"/>
+      https://orcid.org/0009-0000-9103-5783
+    </a>
 <!--
 **PecholaL/PecholaL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
