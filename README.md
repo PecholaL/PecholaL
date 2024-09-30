@@ -2,8 +2,7 @@
 
 [![](https://img.shields.io/badge/github.io-grey?style=flat)](https://pecholal.github.io) 
 [![](https://img.shields.io/badge/SEU-USTC-blue?style=flat)](https://github.com/PecholaL) 
-[![](https://img.shields.io/badge/Google-Scholar-pink?style=flat)](https://scholar.google.com/citations?user=rP_RLDcAAAAJ&hl=en)  
-
+[![](https://img.shields.io/badge/Google-Scholar-pink?style=flat)](https://scholar.google.com/citations?user=rP_RLDcAAAAJ&hl=en) 
 <a
 id="cy-effective-orcid-url"
 class="underline"
