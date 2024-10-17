@@ -19,10 +19,10 @@ class="underline"
 ##   
 
 ### Deep Learning Works
-**IDEAW** | neural audio watermarking  
-**MAIN-VC** | lightweight voice conversion 
+[IDEAW](https://github.com/PecholaL/IDEAW) | neural audio watermarking  
+[MAIN-VC](https://github.com/PecholaL/MAIN-VC) | lightweight voice conversion 
 #### In Progress
-**INANO** | generative speaker anonymization  
+[INANO](https://github.com/PecholaL/INANO) | generative speaker anonymization  
 
 ### VSC Extensions
 [Lakora](https://github.com/pecholal/Lakora) | a plain Chinese-color-scheme for VSC  
