@@ -27,9 +27,5 @@ class="underline"
 ### VSC Extensions
 [Lakora](https://github.com/pecholal/Lakora) | a plain Chinese-color-scheme for VSC  
 [Macatii](https://github.com/pecholal/Macatii) | a wabi-sabi color scheme for VSC  
-
-### Back-End Development (learning)
-[WarehouseManagement](https://github.com/PecholaL/WarehouseManagement) | \{SpringBoot + MyBatis-Plus\} + \{VUE\}  
-#### In Progress
-[SeckillSystem](https://github.com/PecholaL/SeckillSystem) | \{SpringBoot + MyBatis-Plus + Lombok\} + \{Redis + RabbitMQ\} + \{Thymeleaf + Bootstrap\}  
+ 
 
