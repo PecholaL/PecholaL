@@ -21,7 +21,6 @@ class="underline"
 ### Deep Learning Works
 [IDEAW](https://github.com/PecholaL/IDEAW) | neural audio watermarking  
 [MAIN-VC](https://github.com/PecholaL/MAIN-VC) | lightweight voice conversion 
-#### In Progress
 [INANO](https://github.com/PecholaL/INANO) | generative speaker anonymization  
 
 ### VSC Extensions
